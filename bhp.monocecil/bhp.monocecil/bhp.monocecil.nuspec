@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>bhp.monocecil</id>
+    <version>1.0.0</version>
+    <authors>BHPC</authors>
+    <owners>BHPC</owners>
+    <licenseUrl>https://github.com/bhpcash/monocecil</licenseUrl>
+    <projectUrl>https://github.com/bhpcash/monocecil</projectUrl>
+    <iconUrl>https://github.com/bhpcash/monocecil</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>monocecil for BHP.</description>
+    <releaseNotes>good day.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
